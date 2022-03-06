@@ -10,6 +10,7 @@ const GlobalStyled = createGlobalStyle`
 
     body {
         background-color: #0e0e0e;
+        overflow-x: hidden;
     }
 
     :root {
