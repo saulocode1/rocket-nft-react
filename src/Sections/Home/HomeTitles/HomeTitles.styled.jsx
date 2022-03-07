@@ -9,6 +9,7 @@ const HomeTitlesDiv = styled.div`
     max-height: 15.375rem;
     max-width: 79.8125rem;
     margin-top: 12.5rem;
+    margin-inline: auto;
     /* border: 1px solid white; */
 `;
 

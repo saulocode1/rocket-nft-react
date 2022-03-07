@@ -1,5 +1,6 @@
 import React from "react";
 import HomeSection from "./Home.styled";
+import GridComponent from "./HomeGrid/HomeGrid.styled";
 import HomeTitlesComponent from "./HomeTitles/HomeTitles";
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
         <>
             <HomeSection>
                 <HomeTitlesComponent/>
+                <GridComponent/>
             </HomeSection>
         </>
     );

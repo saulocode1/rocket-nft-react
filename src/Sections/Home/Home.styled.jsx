@@ -8,6 +8,7 @@ const HomeSection = styled.section`
     background-size: cover;
     display: flex;
     justify-content: center;
+    flex-direction: column;
 `;
 
 export default HomeSection;
