@@ -1,14 +1,17 @@
 import React from "react";
-import HomeImages from "./HomeImages/HomeImages";
+import HomeImages from "./HomeAvatars/HomeImages";
 import HomeTextComponent from "./HomeText/HomeText";
+import { WrapperTextAndAvatar } from "./HomeText/HomeText.styled";
 import HomeTitlesDiv from "./HomeTitles.styled";
 
 const HomeTitlesComponent = () => {
     return (
         <>
             <HomeTitlesDiv>
-                <HomeTextComponent />
-                <HomeImages/>
+                <WrapperTextAndAvatar>
+                    <HomeTextComponent />
+                    <HomeImages />
+                </WrapperTextAndAvatar>
             </HomeTitlesDiv>
         </>
     );

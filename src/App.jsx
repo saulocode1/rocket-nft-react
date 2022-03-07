@@ -8,7 +8,7 @@ function App() {
             <GlobalStyled />
             <HeaderComponent />
 
-            <Home></Home>
+            <Home />
         </>
     );
 }
