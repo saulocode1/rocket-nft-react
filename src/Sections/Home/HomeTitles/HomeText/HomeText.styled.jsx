@@ -9,11 +9,12 @@ export const Text = styled.p`
 export const TextDiv = styled.div`
     width: 25rem;
     max-width: 25rem;
+    margin-bottom: 55px;
 `;
 
 export const WrapperTextAndAvatar = styled.div`
     height: 15.375rem;
     display: flex;
     flex-direction: column;
-    gap: 3.4375rem;
+    justify-content: center;
 `;
