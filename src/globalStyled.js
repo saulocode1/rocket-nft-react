@@ -19,6 +19,7 @@ const GlobalStyled = createGlobalStyle`
         --card-color: #252525;
         --text-color: #fff;
         --button-color: #fff;
+        --border-color: #fff;
         --subtitle-color: #5a5757;
         --black-text: #000;
         --color-input: #0D0D0D;

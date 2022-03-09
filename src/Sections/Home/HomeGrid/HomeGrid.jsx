@@ -1,6 +1,8 @@
 import styled from "styled-components";
 
-export const GridImage = styled.img.attrs((props) => ({ src: props.src }))``;
+export const GridImage = styled.img.attrs((props) => ({ src: props.src }))`
+    border: 1px solid var(--border-color);
+`;
 
 export const GridDiv = styled.div`
     width: 1277px;
