@@ -29,7 +29,7 @@ export const ColorText = styled.span`
     display: block;
 `;
 
-export const TitleBadge = styled.img.attrs({ src: "/assets/badge.svg" })`
+export const TitleBadge = styled.img.attrs({ src: "assets/badge.svg" })`
     height: auto;
     width: auto;
 `;

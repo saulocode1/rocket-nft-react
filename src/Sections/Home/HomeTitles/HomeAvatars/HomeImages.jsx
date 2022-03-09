@@ -4,10 +4,10 @@ import { FirstTitle, SecondTitle, TextImageDiv } from "./HomeImageText/HomeImage
 
 const HomeImages = () => {
     const IconLib = {
-        artist1: "/assets/avatar-1.png",
-        artist3: "/assets/avatar-2.png",
-        artist6: "/assets/avatar-3.png",
-        artist7: "/assets/avatar-4.png",
+        artist1: "assets/avatar-1.png",
+        artist3: "assets/avatar-2.png",
+        artist6: "assets/avatar-3.png",
+        artist7: "assets/avatar-4.png",
     };
 
     const IconMargin = {
@@ -18,7 +18,7 @@ const HomeImages = () => {
 
     return (
         <>
-            <Wrapper>
+            <Wrapper>   
                 <ImageDiv>
                     <Image margin={IconMargin.margin3} src={IconLib.artist7} />
                     <Image margin={IconMargin.margin2} src={IconLib.artist6} />
