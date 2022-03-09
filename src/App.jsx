@@ -9,7 +9,7 @@ function App() {
             <GlobalStyled />
             <HeaderComponent />
             <Home />
-            <StatsSection></StatsSection>
+            <StatsSection/>
         </>
     );
 }

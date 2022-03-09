@@ -9,7 +9,7 @@ export const GridDiv = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    row-gap: 3.8125rem;
+    row-gap: 3.2rem;
     column-gap: 1.0625rem;
     margin-inline: auto;
     margin-top: 6.25rem;
