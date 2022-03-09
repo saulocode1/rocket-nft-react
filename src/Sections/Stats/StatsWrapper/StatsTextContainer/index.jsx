@@ -8,14 +8,8 @@ const StatsTextContainer = () => {
         <>
             <StyledStatsTextContainer>
                 <StyledStatsTextWrapper>
-                    <StatsArticle
-                        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Congue malesuada amet pretium lacus. Id potenti diam et cras odio viverra. Amet, velit ut hac sit. Enim ultricies mauris mattis nunc semper."
-                        link="Lorem ipsum"
-                    />
-                    <StatsArticle
-                        text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Congue malesuada amet pretium lacus. Id potenti diam et cras odio viverra. Amet, velit ut hac sit. Enim ultricies mauris mattis nunc semper."
-                        link="Lorem ipsum"
-                    />
+                    <StatsArticle link="Lorem ipsum" />
+                    <StatsArticle link="Lorem ipsum" />
                 </StyledStatsTextWrapper>
                 <SectionImage></SectionImage>
             </StyledStatsTextContainer>
