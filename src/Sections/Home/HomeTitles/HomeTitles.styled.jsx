@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+import Badge from "../../../assets/badge.svg";
+
 const HomeTitlesDiv = styled.div`
     display: flex;
     justify-content: space-between;
@@ -10,7 +12,6 @@ const HomeTitlesDiv = styled.div`
     max-width: 79.8125rem;
     margin-top: 12.5rem;
     margin-inline: auto;
-    /* border: 1px solid white; */
 `;
 
 export const MainTitle = styled.h1`
@@ -29,7 +30,7 @@ export const ColorText = styled.span`
     display: block;
 `;
 
-export const TitleBadge = styled.img.attrs({ src: "assets/badge.svg" })`
+export const TitleBadge = styled.img.attrs({ src: Badge })`
     height: auto;
     width: auto;
 `;

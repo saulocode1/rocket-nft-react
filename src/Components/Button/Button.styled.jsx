@@ -1,8 +1,7 @@
 import styled from "styled-components";
+import Logo from "../../assets/logo_MetaMask.svg"
 
-export const ButtonIcon = styled.img.attrs({
-    src: "assets/logo_MetaMask.svg",
-})`
+export const ButtonIcon = styled.img.attrs({ src: Logo})`
     margin-right: 0.9375rem;
 `;
 

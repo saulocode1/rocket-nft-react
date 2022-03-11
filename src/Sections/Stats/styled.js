@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+import Banner from "../../assets/banner.png"
+
 const StyledStatsSection = styled.section`
     height: 41.25rem;
     max-height: 41.25rem;
@@ -8,7 +10,7 @@ const StyledStatsSection = styled.section`
     justify-content: center;
 `;
 
-export const SectionImage = styled.img.attrs({ src: "assets/banner.png" })`
+export const SectionImage = styled.img.attrs({ src: Banner })`
     height: 300px;
 
 `;

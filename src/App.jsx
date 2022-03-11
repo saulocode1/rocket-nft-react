@@ -1,6 +1,7 @@
 import HeaderComponent from "./Components/Header/Header";
 import GlobalStyled from "./globalStyled";
 import Home from "./Sections/Home/Home";
+import PopularSection from "./Sections/Popular";
 import StatsSection from "./Sections/Stats";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
             <HeaderComponent />
             <Home />
             <StatsSection/>
+            <PopularSection/>
         </>
     );
 }
