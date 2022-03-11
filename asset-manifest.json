@@ -1,12 +1,34 @@
 {
   "files": {
-    "main.js": "/rocket-nft-react/static/js/main.ea25f670.js",
+    "main.js": "/rocket-nft-react/static/js/main.8a5123f8.js",
     "static/js/787.cd5e54cc.chunk.js": "/rocket-nft-react/static/js/787.cd5e54cc.chunk.js",
+    "static/media/banner.png": "/rocket-nft-react/static/media/banner.92107a2ff0df9e33c0fd.png",
+    "static/media/background.png": "/rocket-nft-react/static/media/background.b3735f16ffe9174d91b8.png",
+    "static/media/astronauta-4.png": "/rocket-nft-react/static/media/astronauta-4.b980c33096b601390b31.png",
+    "static/media/astronauta-2.png": "/rocket-nft-react/static/media/astronauta-2.d288161798ba0e4017aa.png",
+    "static/media/astronauta-3.png": "/rocket-nft-react/static/media/astronauta-3.75e1ff65945d6382f29c.png",
+    "static/media/astronauta-1.png": "/rocket-nft-react/static/media/astronauta-1.52d1757e9506aad44c7d.png",
+    "static/media/galeria-8.png": "/rocket-nft-react/static/media/galeria-8.60ce0a6f79e4b1ec775d.png",
+    "static/media/galeria-6.png": "/rocket-nft-react/static/media/galeria-6.fd125a7fcee3c844bf5e.png",
+    "static/media/galeria-3.png": "/rocket-nft-react/static/media/galeria-3.9d7e4427bd042869d443.png",
+    "static/media/galeria-7.png": "/rocket-nft-react/static/media/galeria-7.b72304605fa2e5432e81.png",
+    "static/media/galeria-4.png": "/rocket-nft-react/static/media/galeria-4.68e9f6f1ac4916ad102f.png",
+    "static/media/galeria-1.png": "/rocket-nft-react/static/media/galeria-1.27175528efd7dd8862f4.png",
+    "static/media/galeria-2.png": "/rocket-nft-react/static/media/galeria-2.db395c8e41964b2d4afb.png",
+    "static/media/galeria-5.png": "/rocket-nft-react/static/media/galeria-5.72b091f0c4429dffd068.png",
+    "static/media/avatar-2.png": "/rocket-nft-react/static/media/avatar-2.51825dfad5fe1d3568af.png",
+    "static/media/avatar-1.png": "/rocket-nft-react/static/media/avatar-1.7a1b1d5aa17b2890400f.png",
+    "static/media/avatar-4.png": "/rocket-nft-react/static/media/avatar-4.3188e87de8b191ad4efd.png",
+    "static/media/avatar-3.png": "/rocket-nft-react/static/media/avatar-3.d08d16a5917fbc2e9cb9.png",
+    "static/media/badge.svg": "/rocket-nft-react/static/media/badge.2d01ec943f52b6d7b4d7558a92eed992.svg",
+    "static/media/logo_MetaMask.svg": "/rocket-nft-react/static/media/logo_MetaMask.cace22f202cc6f28b308d8914be987df.svg",
+    "static/media/logo.svg": "/rocket-nft-react/static/media/logo.578642045996716355ff9147d6ae8b47.svg",
     "index.html": "/rocket-nft-react/index.html",
-    "main.ea25f670.js.map": "/rocket-nft-react/static/js/main.ea25f670.js.map",
+    "static/media/arrow-white.svg": "/rocket-nft-react/static/media/arrow-white.0245b707000c866f1abf80aeed795aea.svg",
+    "main.8a5123f8.js.map": "/rocket-nft-react/static/js/main.8a5123f8.js.map",
     "787.cd5e54cc.chunk.js.map": "/rocket-nft-react/static/js/787.cd5e54cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ea25f670.js"
+    "static/js/main.8a5123f8.js"
   ]
 }
