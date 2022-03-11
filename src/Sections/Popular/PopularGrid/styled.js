@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const Grid = styled.div`
+const StyledGrid = styled.div`
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
@@ -8,4 +8,4 @@ const Grid = styled.div`
     row-gap: 3.125rem;
 `;
 
-export default Grid;
+export default StyledGrid;

@@ -1,14 +1,24 @@
 import React from "react";
-import StyledPopularSection, { TitleSection, TitleSpan } from "./styled";
+import Grid from "./PopularGrid";
+import StyledPopularSection, {
+    CenterLine,
+    PopularContainer,
+    TitleSection,
+    TitleSpan,
+} from "./styled";
 
 const PopularSection = () => {
     return (
         <>
             <StyledPopularSection>
-                <TitleSection>
-                    <TitleSpan>Populares </TitleSpan>
-                    da semana
-                </TitleSection>
+                <PopularContainer>
+                    <TitleSection>
+                        <TitleSpan>Populares </TitleSpan>
+                        da semana
+                    </TitleSection>
+                    <Grid />
+                    <CenterLine />
+                </PopularContainer>
             </StyledPopularSection>
         </>
     );

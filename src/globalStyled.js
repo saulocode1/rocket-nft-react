@@ -30,6 +30,7 @@ const GlobalStyled = createGlobalStyle`
         --font-2: 1rem; // 16px
         --font-3: 3.125rem; // 50px
         --font-4: 1.25rem; // 20px
+        --font-5: 1.875rem; // 30px
     }
 `;
 

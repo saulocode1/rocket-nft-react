@@ -8,7 +8,7 @@ const StatsSection = () => {
         <>
             <StyledStatsSection>
                 <StatsWrapper />
-                <StatsTextContainer/>
+                <StatsTextContainer />
             </StyledStatsSection>
         </>
     );

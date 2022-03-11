@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import Banner from "../../assets/banner.png"
+import Banner from "../../assets/banner.png";
 
 const StyledStatsSection = styled.section`
     height: 41.25rem;
@@ -11,8 +11,7 @@ const StyledStatsSection = styled.section`
 `;
 
 export const SectionImage = styled.img.attrs({ src: Banner })`
-    height: 300px;
-
+    height: 18.75rem;
 `;
 
 export default StyledStatsSection;

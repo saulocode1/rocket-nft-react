@@ -11,7 +11,7 @@ import galeria7 from "../../../assets/galeria-7.png";
 import galeria8 from "../../../assets/galeria-8.png";
 
 const GridComponent = () => {
-    const ImageLib = [
+    const data = [
         galeria1,
         galeria2,
         galeria3,
@@ -25,7 +25,7 @@ const GridComponent = () => {
     return (
         <>
             <GridDiv>
-                {ImageLib.map((item, index) => (
+                {data.map((item, index) => (
                     <GridImage src={item} />
                 ))}
             </GridDiv>
