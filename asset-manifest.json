@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/rocket-nft-react/static/js/main.eae2d6a4.js",
+    "main.js": "/rocket-nft-react/static/js/main.45f38466.js",
     "static/js/787.cd5e54cc.chunk.js": "/rocket-nft-react/static/js/787.cd5e54cc.chunk.js",
     "static/media/banner.png": "/rocket-nft-react/static/media/banner.92107a2ff0df9e33c0fd.png",
     "static/media/background.png": "/rocket-nft-react/static/media/background.b3735f16ffe9174d91b8.png",
@@ -30,12 +30,13 @@
     "static/media/logo_MetaMask.svg": "/rocket-nft-react/static/media/logo_MetaMask.cace22f202cc6f28b308d8914be987df.svg",
     "static/media/logo.svg": "/rocket-nft-react/static/media/logo.578642045996716355ff9147d6ae8b47.svg",
     "index.html": "/rocket-nft-react/index.html",
+    "static/media/arrow-black.svg": "/rocket-nft-react/static/media/arrow-black.12e4fcad037b0fc9fec2e0bb374f431e.svg",
     "static/media/arrow-orange.svg": "/rocket-nft-react/static/media/arrow-orange.ea00e97b651bc8cb4bec78dd3bb5caf1.svg",
     "static/media/arrow-white.svg": "/rocket-nft-react/static/media/arrow-white.0245b707000c866f1abf80aeed795aea.svg",
-    "main.eae2d6a4.js.map": "/rocket-nft-react/static/js/main.eae2d6a4.js.map",
+    "main.45f38466.js.map": "/rocket-nft-react/static/js/main.45f38466.js.map",
     "787.cd5e54cc.chunk.js.map": "/rocket-nft-react/static/js/787.cd5e54cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.eae2d6a4.js"
+    "static/js/main.45f38466.js"
   ]
 }
