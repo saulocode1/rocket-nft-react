@@ -1,12 +1,11 @@
 import styled from "styled-components";
 
 const StyledPopularSection = styled.section`
-    max-height: 65rem;
+    max-height: 69.4375rem;
     max-width: 90rem;
     display: flex;
     margin-inline: auto;
     margin-bottom: 9.4375rem;
-
 `;
 
 export const TitleSection = styled.h1`
