@@ -8,18 +8,6 @@ const StyledPopularSection = styled.section`
     margin-bottom: 9.4375rem;
 `;
 
-export const TitleSection = styled.h1`
-    font-size: var(--font-3);
-    font-weight: 700;
-    color: var(--text-color);
-`;
-
-export const TitleSpan = styled.span`
-    font-size: var(--font-3);
-    font-weight: 700;
-    color: var(--color-logo);
-`;
-
 export const PopularContainer = styled.div`
     margin-top: 9.375rem;
     height: 60.0625rem;

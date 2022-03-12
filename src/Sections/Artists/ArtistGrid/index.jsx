@@ -20,28 +20,28 @@ const Grid = () => {
                 />
                 <Card
                     src={artist2}
-                    title="Mayk Brito"
-                    subtitle="80 Fotografias"
+                    title="Jakeliny G."
+                    subtitle="99 Fotografias"
                 />
                 <Card
                     src={artist3}
-                    title="Mayk Brito"
-                    subtitle="80 Fotografias"
+                    title="João I. (Biro)"
+                    subtitle="50 Fotografias"
                 />
                 <Card
                     src={artist4}
-                    title="Mayk Brito"
-                    subtitle="80 Fotografias"
+                    title="Tamires Santos"
+                    subtitle="43 Fotografias"
                 />
                 <Card
                     src={artist5}
-                    title="Mayk Brito"
-                    subtitle="80 Fotografias"
+                    title="Ana Silva"
+                    subtitle="28 Fotografias"
                 />
                 <Card
                     src={artist6}
-                    title="Mayk Brito"
-                    subtitle="80 Fotografias"
+                    title="Diego F."
+                    subtitle="20 Fotografias"
                 />
             </StyledArtistGrid>
         </>

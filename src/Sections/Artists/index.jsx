@@ -1,5 +1,5 @@
 import React from "react";
-import { TitleSection, TitleSpan } from "../Popular/styled";
+import { TitleSection, TitleSpan } from "../../Components/SectionTitle/styled";
 import Grid from "./ArtistGrid";
 import {
     ArrowIcon,
@@ -12,9 +12,9 @@ const ArtistsSection = () => {
     return (
         <>
             <StyledArtistSection>
-                <TitleSection>
+                <TitleSection fontSize="var(--font-3)">
                     Melhores
-                    <TitleSpan> artistas</TitleSpan>
+                    <TitleSpan fontSize="var(--font-3)"> artistas</TitleSpan>
                 </TitleSection>
                 <Grid />
                 <TextWrapper>
