@@ -1,7 +1,12 @@
 import React from "react";
 import { TitleSection, TitleSpan } from "../Popular/styled";
 import Grid from "./ArtistGrid";
-import { StyledArtistSection } from "./styled";
+import {
+    ArrowIcon,
+    SectionText,
+    StyledArtistSection,
+    TextWrapper,
+} from "./styled";
 
 const ArtistsSection = () => {
     return (
@@ -11,7 +16,11 @@ const ArtistsSection = () => {
                     Melhores
                     <TitleSpan> artistas</TitleSpan>
                 </TitleSection>
-                <Grid/>
+                <Grid />
+                <TextWrapper>
+                    <SectionText>Ver todos os artistas</SectionText>
+                    <ArrowIcon />
+                </TextWrapper>
             </StyledArtistSection>
         </>
     );

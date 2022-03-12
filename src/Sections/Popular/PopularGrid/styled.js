@@ -6,6 +6,7 @@ const StyledGrid = styled.div`
     grid-template-rows: 1fr 1fr;
     column-gap: 31.875rem;
     row-gap: 3.125rem;
+    margin-top: 9.875rem;
 `;
 
 export default StyledGrid;
