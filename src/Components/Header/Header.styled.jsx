@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const HeaderBar = styled.header`
     position: absolute;
-    top: 57px;
+    top: 3.5625rem;
     display: flex;
     justify-content: space-between;
     align-items: center;

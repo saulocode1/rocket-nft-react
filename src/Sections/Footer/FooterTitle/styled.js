@@ -23,6 +23,13 @@ export const ArrowButton = styled.button`
     justify-content: center;
     align-items: center;
     border: none;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+
+    &:hover {
+        transform: translateY(-5px);
+        transition: 200ms ease-in-out;
+    }
 `;
 
 export const ArrowImage = styled.img.attrs({ src: ArrowSvg })``;

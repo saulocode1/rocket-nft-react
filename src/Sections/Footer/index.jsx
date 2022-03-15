@@ -1,5 +1,5 @@
 import React from "react";
-import EmailWrapper from "./FooterLinks";
+import LinksContainer from "./FooterMenu";
 import FooterTitleWrapper from "./FooterTitle";
 
 import { StyledFooter } from "./styled";
@@ -9,7 +9,7 @@ const Footer = () => {
         <>
             <StyledFooter>
                 <FooterTitleWrapper />
-                <EmailWrapper/>
+                <LinksContainer/>
             </StyledFooter>
         </>
     );

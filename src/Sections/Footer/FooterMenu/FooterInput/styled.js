@@ -18,7 +18,7 @@ export const StyledEmailWrapper = styled.div`
     flex-direction: column;
     gap: 1.5625rem;
     padding: 4.1875rem 3.875rem 5.125rem 5rem;
-    border: 1px solid var(--subtitle-color);
+    border-right: 1px solid var(--subtitle-color);
     border-left: none;
     width: 34rem;
     max-width: 34rem;
@@ -55,7 +55,7 @@ export const SendButton = styled.button`
 
     &:hover {
         background-color: var(--color-logo);
-        transition: 150ms ease-in-out;
+        transition: 250ms ease-in-out;
     }
 `;
 
