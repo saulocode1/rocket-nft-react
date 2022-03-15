@@ -1,5 +1,5 @@
 import React from "react";
-import HomeSection from "./Home.styled";
+import HomeSection from "./styled.js";
 import GridComponent from "./HomeGrid/HomeGrid.styled";
 import HomeTitlesComponent from "./HomeTitles/HomeTitles";
 

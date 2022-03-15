@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const StyledPopularSection = styled.section`
     max-height: 69.4375rem;
-    max-width: 90rem;
+    max-width: 1440px;
     display: flex;
     margin-inline: auto;
     margin-bottom: 9.4375rem;

@@ -6,7 +6,7 @@ export const StyledArtistSection = styled.section`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    max-width: 80.4375rem;
+    max-width: 1440px;
     margin-inline: auto;
 `;
 
