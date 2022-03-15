@@ -6,13 +6,6 @@ import {
 import { ArrowButton, ArrowImage, TitleWrapper } from "./styled";
 
 const FooterTitleWrapper = () => {
-    const scrollToTop = window.addEventListener("click", () => {
-        window.scrollTo({
-            top: 0,
-            left: 0,
-            behavior: "smooth",
-        });
-    });
     return (
         <>
             <TitleWrapper>
@@ -20,16 +13,23 @@ const FooterTitleWrapper = () => {
                     Rocket
                     <TitleSpan fontSize="var(--font-6)"> NFTs</TitleSpan>
                 </TitleSection>
-                <FooterButton onClick={scrollToTop} />
+                <FooterButton />
             </TitleWrapper>
         </>
     );
 };
 
 export const FooterButton = () => {
+    const scrollToTop = () => {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth",
+        });
+    };
+
     return (
         <>
-            <ArrowButton className="scroll-Button">
+            <ArrowButton onClick={scrollToTop}>
                 <ArrowImage />
             </ArrowButton>
         </>
