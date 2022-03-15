@@ -9,6 +9,12 @@ export const NavItem = styled.li`
     color: var(--text-color);
     font-size: var(--font-1);
     list-style: none;
+    transition: 150ms ease-in-out;
+
+    &:hover {
+        color: var(--color-logo);
+        transition: 150ms ease-in-out;
+    }
 `;
 
 export const NavList = styled.ul`
