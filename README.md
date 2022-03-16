@@ -12,4 +12,3 @@ This project was made using the following technologies:
 Libraries
 
 -   styled-components
--   srcoll-to-top
